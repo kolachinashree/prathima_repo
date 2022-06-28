@@ -1,2 +1,4 @@
 elephant
 deer
+dog
+pineapple
